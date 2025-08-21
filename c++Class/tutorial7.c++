@@ -1,3 +1,5 @@
+// logical operators in C++
+// This program demonstrates the use of logical operators in C++.
 #include <iostream>
 #include <string>
 using namespace std;

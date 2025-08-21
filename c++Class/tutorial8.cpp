@@ -1,3 +1,5 @@
+// condiitonal statements in C++
+// This program demonstrates the use of conditional statements in C++.
 #include <iostream>
 #include <string>
 using namespace std;
