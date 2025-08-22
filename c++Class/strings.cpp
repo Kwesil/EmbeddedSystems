@@ -26,7 +26,5 @@ int main() {
     } else{
         cout << "You are not eligible to use this platform" << endl;
     };
-
-
     
 }
