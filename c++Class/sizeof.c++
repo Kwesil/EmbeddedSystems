@@ -8,7 +8,7 @@ int main(){
     cout << sizeof(values) << endl;
     cout << sizeof(int) << endl;
 
-    for(int i=0; i<4; i++){
+    for(int i=0; i<sizeof(values)/sizeof(int); i++){
         cout << values[i] << " " << flush;
     }
 
