@@ -12,6 +12,8 @@ int getInput(){
 
     int input;
     cin >> input;
+
+    return input;
 }
 
 void processSelection(int option){
