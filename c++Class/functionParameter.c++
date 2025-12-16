@@ -28,7 +28,7 @@ void processSelection(int option){
             cout << "Quitting ..." << endl;
             break;
         default:
-            cout << "Please select an item from the menu." << endl;
+            cout << "Please select an item from the menu" << endl;
     }
 
 }
